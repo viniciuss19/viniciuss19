@@ -4,7 +4,7 @@
   Olá! eu sou o Vinícius e estudo <strong>Programação</strong>.<br>
     - Sou formado no curso técnico de <strong> Desenvolvimento de Sistemas</strong> no <strong> SENAI</strong>.
   - Sou de <strong> Londrina - PR </strong> <br>
-  - Tenho 16 anos
+  - Tenho 17 anos
   
  
 </p>
@@ -26,6 +26,6 @@
 
  
 
-  <a href="https://www.instagram.com/ilyvinao/" alt="Instagram">
+  <a href="mailto:viniterlera@gmail.com alt="Gmail>
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
