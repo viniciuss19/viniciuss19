@@ -3,15 +3,17 @@
 <p align="left"> 
   Olá! eu sou o Vinícius e estudo <strong>Programação</strong>.<br>
     - Sou formado no curso técnico de <strong> Desenvolvimento de Sistemas</strong> no <strong> SENAI</strong>.
-  - Sou de <strong> Londrina - PR </strong> <br>
-  - Tenho 17 anos
+  - Sou de <strong> Londrina - PR; </strong> <br>
+  - Tenho 17 anos <br>
+  - Trabalho bem em equipe e tenho capacidade de solucionar problemas utilizando tecnologia.
   
  
 </p>
 
 <p align="left">
-  🦄 Linguagens: 
+  <strong> 🦄 Linguagens: </strong>
   - Tenho conhecimento sobre <strong>C#</strong> e <strong> HTML,CSS,JS </strong> <br>
+  - Domino a linguagem de diagramas UML e versionamento de projetos em GIT.
        
 </p>
 
