@@ -2,6 +2,7 @@
 
 <p align="left"> 
   Olá! eu sou o Vinícius e estudo <strong>Programação</strong>.<br>
+  <br>
   - Estou cursando Engenharia de Software. <br>
   - Sou formado no curso técnico de <strong> Desenvolvimento de Sistemas</strong> no <strong> SENAI</strong>. <br>
   - Inglês nível intermediário-avançado, estou perto de acabar os estudos na Influx. <br>
