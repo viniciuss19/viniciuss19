@@ -5,7 +5,7 @@
   <br>
   - Estou cursando Engenharia de Software. <br>
   - Sou formado no curso técnico de <strong> Desenvolvimento de Sistemas</strong> no <strong> SENAI</strong>. <br>
-  - Inglês nível intermediário-avançado, estou perto de acabar os estudos na Influx. <br>
+  - Inglês nível fluente. obtive 920 no TOEIC (Test of English for International Communication) <br>
   - Sou de <strong> Londrina - PR; </strong> <br>
   - Tenho 18 anos <br>
   - Trabalho bem em equipe e tenho capacidade de solucionar problemas utilizando tecnologia.
