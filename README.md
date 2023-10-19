@@ -35,4 +35,4 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<a href="https://www.linkedin.com/in/vinicius-terlera-camargo-917952247/">
+<a href="https://www.linkedin.com/in/vinicius-terlera-camargo-917952247/"> Linkedin </a>
