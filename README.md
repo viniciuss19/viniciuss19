@@ -7,8 +7,8 @@
   - Sou formado no curso técnico de <strong> Desenvolvimento de Sistemas</strong> no <strong> SENAI</strong>. <br>
   - Inglês nível fluente. obtive 920 no TOEIC (Test of English for International Communication) <br>
   - Sou de <strong> Londrina - PR; </strong> <br>
-  - Tenho 18 anos <br>
-  - Trabalho bem em equipe e tenho capacidade de solucionar problemas utilizando tecnologia.
+  - Tenho 19 anos <br>
+ 
   
  
 </p>
@@ -20,19 +20,5 @@
        
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Trabalho com o <strong> Visual Studio Code </strong> e o <strong> Visual Studio 2019 </strong>
-</p>
-
-<p align="left">
-  💌 Minhas rede sociais para contato: ⤵️
-</p>
-
-
- 
-
-  <a href="mailto:viniterlera@gmail.com alt=Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 <a href="https://www.linkedin.com/in/vinicius-terlera-camargo-917952247/"> Linkedin </a>
