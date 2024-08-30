@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! eu sou o Vinícius e estudo <strong>Programação</strong>.<br>
+  Olá! eu sou o Vinícius e trabalho como Desenvolvedor de Software. <br>
   <br>
   - Estou cursando Engenharia de Software. <br>
   - Sou formado no curso técnico de <strong> Desenvolvimento de Sistemas</strong> no <strong> SENAI</strong>. <br>
@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  <strong> 🦄 Linguagens: </strong>
-  - Tenho conhecimento sobre <strong>C#</strong> e <strong> HTML,CSS,JS </strong> <br>
-  - Domino a linguagem de diagramas UML e versionamento de projetos em GIT.
+  <strong>  Stack: </strong>
+  - Atualmente, trabalho com typescript, acoplado a projetos NextJS, NestJS, mas também já trabalhei com Golang e C#
        
 </p>
 
 
+Sinta-se livre para me contatar no meu e-mail: viniciusterlera19@gmail.com
 <a href="https://www.linkedin.com/in/vinicius-terlera-camargo-917952247/"> Linkedin </a>
