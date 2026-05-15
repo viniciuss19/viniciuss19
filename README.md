@@ -7,7 +7,7 @@
   - Sou formado no curso técnico de <strong> Desenvolvimento de Sistemas</strong> no <strong> SENAI</strong>. <br>
   - Inglês nível fluente. obtive 920 no TOEIC (Test of English for International Communication) <br>
   - Sou de <strong> Londrina - PR; </strong> <br>
-  - Tenho 19 anos <br>
+  - Tenho 20 anos <br>
  
   
  
@@ -20,5 +20,5 @@
 </p>
 
 
-Sinta-se livre para me contatar no meu e-mail: viniciusterlera19@gmail.com
+Sinta-se livre para me contatar no meu e-mail: viniciuscamargobusiness@gmail.com
 <a href="https://www.linkedin.com/in/vinicius-terlera-camargo-917952247/"> Linkedin </a>
